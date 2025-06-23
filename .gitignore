@@ -1,0 +1,48 @@
+# Build
+bin/
+obj/
+out/
+
+# Rider / JetBrains IDE
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code (por si acaso)
+.vscode/
+
+# dotnet tools
+*.pdb
+*.cache
+*.db
+*.bak
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testlog
+
+# Resharper (si usas)
+_ReSharper*/
+*.[Rr]e[Ss]harper
